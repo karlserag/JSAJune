@@ -1,0 +1,18 @@
+/*
+Theme Name: Jocelyne Saab
+Description: A comprehensive WordPress theme for filmmaker and artist Jocelyne Saab, featuring custom post types for films, news, workshops, publications, partners, and events. Built with modern web standards, accessibility compliance, and multilingual support.
+Version: 1.0.0
+Author: Karl Serag
+Author URI: https://github.com/karlserag
+Text Domain: saab
+Domain Path: /languages
+Requires at least: 5.9
+Tested up to: 6.4
+Requires PHP: 8.0
+License: GPL v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Tags: custom-post-type, film, artist, portfolio, multilingual, accessibility-ready, block-editor-ready, custom-colors, custom-menu, featured-images, flexible-header, full-width-template, rtl-language-support, theme-options, threaded-comments, translation-ready
+*/
+
+/* Import main compiled CSS */
+@import url('./assets/css/main.css');
